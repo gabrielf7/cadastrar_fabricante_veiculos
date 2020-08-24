@@ -1,0 +1,18 @@
+DESAFIO DE BANCO DE DADOS 
+
+REGRA DO NEGÓCIO
+
+1 – O sistema deverá possuir uma tela para cadastrar veículos (tela em modal de preferência).
+2 – Veículos serão vinculados (obrigatoriamente) a um fabricante.
+3 – Mostrar a quantidade de veículos e a quantidade de fabricantes cadastrados.
+4 – Listar todos os veículos e todos os fabricantes.
+
+*****************************************************************************
+
+Comandos sql contemplados:
+INSERT e SELECT
+Métodos mysqli utilizados:
+connect_error
+mysqli_query
+mysqli_num_rows
+mysqli_fetch_assoc
