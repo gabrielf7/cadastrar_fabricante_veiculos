@@ -3,7 +3,7 @@
   
   <img alt="Logo of the project" src="" >
   
-  <p>Simples Cadastramento de Informações de Veículos.</p>cadastramento_form_table
+  <p>Simples Cadastramento de Informações de Veículos.</p>
 </div>
 
 loading...
