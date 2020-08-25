@@ -36,7 +36,9 @@
   
 <div align="center">
   
-  <h2>Veja mais. Assista o vídeo postado no Linkedin</h2>
+  <h2>Veja mais</h2>
+  
+  <p>Assista o vídeo postado no Linkedin</p>
   
   <a href="" alt="Link para o Linkedin sobre o projeto">Clicque Aqui!</a>
 </div>
