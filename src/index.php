@@ -38,8 +38,8 @@ include "./connect.php";
                     <table class="table text-center">
                         <thead class="thead-dark">
                             <tr>
-                                <th scope="col" class="col-lg-6 col-sm-6">Fabricantes</td>
-                                <th scope="col" class="col-lg-6 col-sm-6">Veículos</td>
+                                <th scope="col">Fabricantes</td>
+                                <th scope="col">Veículos</td>
 
                             </tr>
 
@@ -71,7 +71,7 @@ include "./connect.php";
                     <table class="table table-striped table-dark text-center">
                         <thead>
                             <tr>
-                                <th scope="col-2">id</td>
+                                <th scope="col">id</td>
                                 <th scope="col">Nome do Fabricante</td>
                                 <th scope="col">Setor</td>
 
@@ -104,7 +104,7 @@ include "./connect.php";
                     <table class="table table-dark mb-5 text-center">
                         <thead>
                             <tr>
-                                <th scope="col-2">id</td>
+                                <th scope="col">id</td>
                                 <th scope="col">Nome do Veículo</td>
                                 <th scope="col">Ano</td>
                                 <th scope="col">Preço</td>
