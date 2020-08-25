@@ -14,9 +14,13 @@
 
 ## Tecnologias 
 
-<p align="center">
-  Aqui estão as tecnologias utilizadas neste projeto.
+<div align="center">
   
+  <p> Aqui estão as tecnologias utilizadas neste projeto. </p>
+  
+</div>
+ 
+<p align="center">
   <a href="https://www.apachefriends.org/index.html">XAMPP(PHP + MYSQL)</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org/en/download/">NodeJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">Bootstrap</a>
