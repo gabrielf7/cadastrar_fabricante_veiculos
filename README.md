@@ -33,6 +33,13 @@
   - Exibi tabela de Quantidade de Fabricantes e Veículos.
   - Exibi tabela de Fabricantes cadastros. 
   - Exibi tabela de Veículos cadastros.
+  
+<div align="center">
+  
+  <h2>Veja mais. Assista o vídeo postado no Linkedin</h2>
+  
+  <a href="" alt="Link para o Linkedin sobre o projeto">Clicque Aqui!</a>
+</div>
 
 ## Criado por 
 
