@@ -40,7 +40,7 @@
   
   <p>Assista o vídeo postado no Linkedin</p>
   
-  <a href="" alt="Link para o Linkedin sobre o projeto">Clicque Aqui!</a>
+  <a href="" style="color: #f4e409;" alt="Link para o Linkedin sobre o projeto">Clique Aqui!</a>
 </div>
 
 ## Criado por 
