@@ -1,14 +1,14 @@
 <div align="center">
   <h2>Simples Cadastramento de Informações de Veículos.</h2>
-  <hr/>
+  
   <p>Cadastramento com Formulários e Tabelas em PHP</p>
 </div>
 
-## Technology 
-
-Here are the technologies used in this project.
+## Tecnologia 
 
 <p align="center">
+  Aqui estão as tecnologias utilizadas neste projeto.
+  
   <a href="https://www.apachefriends.org/index.html">XAMPP(PHP + MYSQL)</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org/en/download/">NodeJS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/">Bootstrap</a>
