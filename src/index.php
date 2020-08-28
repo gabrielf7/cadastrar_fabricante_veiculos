@@ -13,7 +13,7 @@ include "./connect.php";
         <title>Home - Montadora</title>
         
         <link rel="stylesheet" href="../node_modules/bootstrap/compile/bootstrap.css">
-        <link rel="stylesheet" href="../node_modules/bootstrap/compile/mystyles.css">
+        <link rel="stylesheet" href="../styles/css/mystyles.css">
         
         <script src="../node_modules/jquery/dist/jquery.js"></script>
         <script src="../node_modules/popper.js/dist/umd/popper.js"></script>
