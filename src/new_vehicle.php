@@ -19,7 +19,7 @@ else{
 ?>
 
     <script>
-        alert("Inserido com secusso");
+        alert("Concluído com sucesso");
         window.location.href="index.php";
     </script>
 
