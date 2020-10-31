@@ -1,13 +1,13 @@
 {
-  "name": "syst_carmaker",
+  "name": "cadastrar_fabricante_veiculos",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simples Cadastramento de Informações de Veículos.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "scss-i": "sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compile styles/scss:styles/css"
   },
-  "author": "",
+  "author": "João_Gabriel",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.5.2",
